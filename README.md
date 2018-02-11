@@ -1,5 +1,6 @@
 # Primefaces-ShoppingKart-base
 
+
 ### Parte II
 
 Ahora, va a realizar un primer prototipo de un ‘carrito de compras’. Para esto, clone el proyecto
